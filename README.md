@@ -1,4 +1,4 @@
-### What's updog? 👋
+### What is updog? 👋
 
 - 🔭 I've recently taken an interest in automation and cutting corners. Being lazy has its perks 🤷‍♂️
 - 🌱 I’m learning Javascript & Java
